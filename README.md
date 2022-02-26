@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working at **Tata Consutancy Services**
 
-- 👨‍💻 All of my work and research are available at my Portfolio on [https://yashsonwane.github.io/](https://yashsonwane.github.io/)
+- 👨‍💻 All of my work and research are available at my Portfolio on [https://yashsonwane.tech/](https://yashsonwane.tech/)
 
 - 📝 I write articles on [https://medium.com/yashsonwane](https://medium.com/yashsonwane)
 
