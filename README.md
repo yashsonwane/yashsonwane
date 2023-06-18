@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashsonwane" target="blank"><img src="https://img.shields.io/twitter/follow/yashsonwane?logo=twitter&style=for-the-badge" alt="yashsonwane" /></a> </p>
 
-- 🌱 I’m currently working at **Tata Consutancy Services**
+- 🌱 I’m currently working at **Discite Analytics & AI**
 
 - 👨‍💻 All of my work and research are available at my Portfolio on [https://yashsonwane.tech/](https://yashsonwane.tech/)
 
