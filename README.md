@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my work and research are available at my Portfolio on [https://yashsonwane.tech/](https://yashsonwane.tech/)
 
-- 📝 I write articles on [https://medium.com/yashsonwane](https://medium.com/yashsonwane)
+- 📝 I write articles on [https://medium.com/@yashsonwane](https://medium.com/@yashsonwane)
 
 - 📫 How to reach me **yashsonwane@gmail.com**
 
