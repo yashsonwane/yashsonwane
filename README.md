@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/yashsonwane" target="blank"><img src="https://img.shields.io/twitter/follow/yashsonwane?logo=twitter&style=for-the-badge" alt="yashsonwane" /></a> </p>
 
-- 🌱 I’m currently working at **Discite Analytics & AI**
+- 🌱 I’m currently working at **Teladoc Health**
 
-- 👨‍💻 All of my work and research are available at my Portfolio on [https://yashsonwane.tech/](https://yashsonwane.tech/)
+- 👨‍💻 All of my work and research are available in my Portfolio on [https://yashsonwane.tech/](https://yashsonwane.tech/)
 
 - 📝 I write articles on [https://medium.com/@yashsonwane](https://medium.com/@yashsonwane)
 
